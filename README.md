@@ -1,0 +1,1 @@
+A simple web-based timer designed for steeping yerba mate. The timer helps ensure that your mate is steeped for the optimal 3-5 minutes for the best flavor.
